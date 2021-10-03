@@ -15,7 +15,7 @@ Use ReactJS, SCSS.
 
 ## SreenShot
 ```
-<img src="/docs/logo.png" alt="My cool logo"/>
+![img](https://www.linkpicture.com/q/Capture_185.jpg)
 
 ```
 ## Browser Support
