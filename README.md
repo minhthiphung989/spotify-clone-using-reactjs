@@ -14,9 +14,11 @@ Use ReactJS, SCSS.
 
 
 ## ScreenShot
-
+Dashboard
 ![img](https://www.linkpicture.com/q/Capture_185.jpg)
 
+Search
+![img](https://www.linkpicture.com/q/Capture1_5.jpg)
 
 ## Browser Support
 Chrome, CocCoc, FireFox, Microsoft Edge.
