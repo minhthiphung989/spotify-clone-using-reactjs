@@ -13,8 +13,9 @@ Use ReactJS, SCSS.
 + Library
 
 
-## SreenShot
+## ScreenShot
 ```
+![alt text](https://www.linkpicture.com/q/Capture_185.jpg)
 ![img](https://www.linkpicture.com/q/Capture_185.jpg)
 
 ```
